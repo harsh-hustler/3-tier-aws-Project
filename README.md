@@ -82,7 +82,7 @@
 ---
 
 ## Setup the Ec2-instance and create the IAM (WEB Tier)
-**REF:** [web-tier](https://github.com/harishnshetty/3-tier-aws-15-services/edit/main/application-code/web-tier)
+**REF:** [web-tier](https://github.com/harsh-hustler/3-tier-aws-Project/edit/main/application-code/web-tier)
 
 **Only Setup the Packages:**  
 - Nginx  
@@ -91,7 +91,7 @@
 ---
 
 ## Setup the Ec2-instance and create the IAM (APP Tier)
-**REF:** [app-tier](https://github.com/harsh-hustler/3-tier-aws-15-services/tree/main/application-code/app-tier)
+**REF:** [app-tier](https://github.com/harsh-hustler/3-tier-aws-Project/tree/main/application-code/app-tier)
 
 **Only Setup the Packages:**  
 - install  
