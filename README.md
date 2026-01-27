@@ -2,7 +2,7 @@
 
 ## Architecture Overview
 
-![Architecture Overview](./assets/logo.png)
+![Architecture Overview](application-code/web-tier/src/assets/ArchitectureOverview.png)
 
 
 ---
