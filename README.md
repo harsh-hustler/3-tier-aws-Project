@@ -300,3 +300,10 @@ sudo ./app.sh
 ## Create the ACM for the Cloudfront  
 ## Configure the WAF  
 ## Configure the Route53  
+
+## 🌐 Project Demo
+## Homepage
+![Homepage](application-code/web-tier/src/assets/Homepage.png)
+
+## Database
+![Database](application-code/web-tier/src/assets/Database.png)
